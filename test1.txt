@@ -1,6 +1,7 @@
 hi welcome
 
 
+
 linux 234
 ls
 chmod
